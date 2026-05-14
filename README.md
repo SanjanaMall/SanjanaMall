@@ -1,16 +1,127 @@
-## Hi there 👋
+# Hi, I'm Sanjana 👋
 
-<!--
-**SanjanaMall/SanjanaMall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech Computer Science student who enjoys building practical software projects and learning how real systems work behind the scenes.
 
-Here are some ideas to get you started:
+Right now I'm focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java development
+* Frontend web development
+* Backend fundamentals
+* Machine Learning & AI
+* Linux and Git workflows
+
+I like building projects that solve actual problems instead of just completing tutorials.
+
+---
+
+## Tech Stack
+
+### Languages
+
+* Java
+* Python
+* JavaScript
+* C++
+* HTML/CSS
+
+### Currently Learning
+
+* Spring Boot
+* REST APIs
+* SQL & PostgreSQL
+* Machine Learning
+* Git & Linux tooling
+
+---
+
+## Featured Projects
+
+### Campus Course & Records Manager (Java)
+
+A console-based academic management system built using Java SE.
+
+Features:
+
+* Student/course management
+* Enrollment tracking
+* GPA calculation
+* CSV import/export
+* Stream API and OOP concepts
+
+What I learned:
+
+* Object-oriented design
+* Service-layer architecture
+* File handling
+* Java collections and streams
+
+---
+
+### Open Source & Git Audit Project
+
+A Linux shell scripting project exploring Git, FOSS ecosystems, and system automation.
+
+Includes:
+
+* System auditing scripts
+* Disk and permission analysis
+* Log file analysis
+* Bash scripting utilities
+
+What I learned:
+
+* Shell scripting
+* Linux commands
+* Automation basics
+* Open-source tooling
+
+---
+
+### Student Guidance Web App
+
+A web app designed to help students explore learning resources, branches, and career guidance.
+
+Built with:
+
+* HTML
+* CSS
+* JavaScript
+
+Currently improving:
+
+* UI/UX
+* Backend integration
+* Personalized recommendations
+
+---
+
+## What I'm Working On
+
+Currently building projects around:
+
+* Backend development
+* AI/ML fundamentals
+* Real-world APIs
+* Better project architecture
+* Deploying full-stack applications
+
+My goal is to become a strong software engineer with skills in backend systems and AI-powered applications.
+
+---
+
+## Looking For
+
+* Remote internships
+* Freelance opportunities
+* Open-source collaborations
+* Real-world development experience
+
+---
+
+## Connect With Me
+
+* GitHub: https://github.com/SanjanaMall
+* LinkedIn: (add your LinkedIn here)
+* Email: (add your email here)
+
+Thanks for visiting my profile.
