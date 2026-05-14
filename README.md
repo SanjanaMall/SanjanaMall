@@ -121,7 +121,7 @@ My goal is to become a strong software engineer with skills in backend systems a
 ## Connect With Me
 
 * GitHub: https://github.com/SanjanaMall
-* LinkedIn: (add your LinkedIn here)
-* Email: (add your email here)
+* LinkedIn: https://www.linkedin.com/in/sanjana-mall-b9a504295/
+* Email:mallsanjana1912@gmail.com
 
 Thanks for visiting my profile.
