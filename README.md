@@ -123,5 +123,6 @@ My goal is to become a strong software engineer with skills in backend systems a
 * GitHub: https://github.com/SanjanaMall
 * LinkedIn: https://www.linkedin.com/in/sanjana-mall-b9a504295/
 * Email:mallsanjana1912@gmail.com
+* LeetCode: SanjanaMall4
 
 Thanks for visiting my profile.
