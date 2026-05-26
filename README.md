@@ -8,6 +8,8 @@ Right now I'm focused on:
 * Frontend web development
 * Backend fundamentals
 * Machine Learning & AI
+* Python Development
+* python | NumPy | Pandas
 * Linux and Git workflows
 
 I like building projects that solve actual problems instead of just completing tutorials.
@@ -26,8 +28,7 @@ I like building projects that solve actual problems instead of just completing t
 
 ### Currently Learning
 
-* Spring Boot
-* REST APIs
+* Python Programming with its Libraries
 * SQL & PostgreSQL
 * Machine Learning
 * Git & Linux tooling
@@ -89,7 +90,6 @@ Built with:
 
 Currently improving:
 
-* UI/UX
 * Backend integration
 * Personalized recommendations
 
@@ -106,6 +106,7 @@ Currently building projects around:
 * Deploying full-stack applications
 
 My goal is to become a strong software engineer with skills in backend systems and AI-powered applications.
+Along with I am focusing on my Machine Learning knowledge with Python & its Libraries.
 
 ---
 
