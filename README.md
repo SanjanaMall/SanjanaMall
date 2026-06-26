@@ -2,6 +2,12 @@
 
 I'm a B.Tech Computer Science student who enjoys building practical software projects and learning how real systems work behind the scenes.
 
+💡 Machine Learning Enthusiast
+
+🚀 AI Developer
+
+📍 India
+
 Right now I'm focused on:
 
 * Java development
