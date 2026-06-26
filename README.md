@@ -48,3 +48,19 @@
 | Student Guidance | HTML, CSS, JS | Student career guidance |
 | Course Manager | Java | Academic management system |
 | Git Audit | Bash | Linux automation |
+
+## 🌱 Currently Learning
+
+- Machine Learning
+- NumPy
+- Pandas
+- Scikit-learn
+- TensorFlow
+- Backend Development
+
+  ## ⚡ Fun Facts
+
+- 💻 I enjoy building real-world software.
+- 🧠 Learning Machine Learning one project at a time.
+- 🌱 Open to collaboration on AI and Backend projects.
+- 
