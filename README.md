@@ -64,3 +64,19 @@
 - 🧠 Learning Machine Learning one project at a time.
 - 🌱 Open to collaboration on AI and Backend projects.
 - 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SanjanaMall/SanjanaMall/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SanjanaMall/SanjanaMall/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SanjanaMall/SanjanaMall/tree/master/0004-median-of-two-sorted-arrays) |
+<!---LeetCode Topics End-->
