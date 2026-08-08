@@ -83,6 +83,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/SanjanaMall/SanjanaMall/tree/master/0010-regular-expression-matching) |
 | [0152-maximum-product-subarray](https://github.com/SanjanaMall/SanjanaMall/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
@@ -92,8 +93,13 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanjanaMall/SanjanaMall/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/SanjanaMall/SanjanaMall/tree/master/0010-regular-expression-matching) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanjanaMall/SanjanaMall/tree/master/0003-longest-substring-without-repeating-characters) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/SanjanaMall/SanjanaMall/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
