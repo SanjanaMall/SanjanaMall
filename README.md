@@ -71,6 +71,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SanjanaMall/SanjanaMall/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/SanjanaMall/SanjanaMall/tree/master/0011-container-with-most-water) |
 | [0152-maximum-product-subarray](https://github.com/SanjanaMall/SanjanaMall/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
 |  |
@@ -102,4 +103,12 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SanjanaMall/SanjanaMall/tree/master/0010-regular-expression-matching) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/SanjanaMall/SanjanaMall/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/SanjanaMall/SanjanaMall/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
