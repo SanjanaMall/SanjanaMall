@@ -108,6 +108,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SanjanaMall/SanjanaMall/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SanjanaMall/SanjanaMall/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Greedy
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SanjanaMall/SanjanaMall/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/SanjanaMall/SanjanaMall/tree/master/0023-merge-k-sorted-lists) |
 ## Heap (Priority Queue)
 |  |
