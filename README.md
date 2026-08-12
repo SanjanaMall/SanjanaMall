@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SanjanaMall/SanjanaMall/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/SanjanaMall/SanjanaMall/tree/master/0022-generate-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/SanjanaMall/SanjanaMall/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
@@ -96,6 +97,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanjanaMall/SanjanaMall/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/SanjanaMall/SanjanaMall/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/SanjanaMall/SanjanaMall/tree/master/0022-generate-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -130,4 +132,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SanjanaMall/SanjanaMall/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/SanjanaMall/SanjanaMall/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/SanjanaMall/SanjanaMall/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
