@@ -108,6 +108,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SanjanaMall/SanjanaMall/tree/master/0010-regular-expression-matching) |
+| [0024-swap-nodes-in-pairs](https://github.com/SanjanaMall/SanjanaMall/tree/master/0024-swap-nodes-in-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SanjanaMall/SanjanaMall/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/SanjanaMall/SanjanaMall/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/SanjanaMall/SanjanaMall/tree/master/0024-swap-nodes-in-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
