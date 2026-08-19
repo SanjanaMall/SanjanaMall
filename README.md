@@ -72,6 +72,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SanjanaMall/SanjanaMall/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/SanjanaMall/SanjanaMall/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/SanjanaMall/SanjanaMall/tree/master/0015-3sum) |
 | [0152-maximum-product-subarray](https://github.com/SanjanaMall/SanjanaMall/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
 |  |
@@ -118,6 +119,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SanjanaMall/SanjanaMall/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/SanjanaMall/SanjanaMall/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/SanjanaMall/SanjanaMall/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SanjanaMall/SanjanaMall/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Greedy
 |  |
@@ -158,4 +160,8 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/SanjanaMall/SanjanaMall/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/SanjanaMall/SanjanaMall/tree/master/0012-integer-to-roman) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/SanjanaMall/SanjanaMall/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
