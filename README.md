@@ -104,6 +104,7 @@
 | [0008-string-to-integer-atoi](https://github.com/SanjanaMall/SanjanaMall/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/SanjanaMall/SanjanaMall/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/SanjanaMall/SanjanaMall/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/SanjanaMall/SanjanaMall/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SanjanaMall/SanjanaMall/tree/master/0022-generate-parentheses) |
 ## Sliding Window
 |  |
@@ -150,6 +151,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SanjanaMall/SanjanaMall/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SanjanaMall/SanjanaMall/tree/master/0022-generate-parentheses) |
 ## Manacher
 |  |
@@ -164,4 +166,8 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SanjanaMall/SanjanaMall/tree/master/0015-3sum) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SanjanaMall/SanjanaMall/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
