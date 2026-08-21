@@ -73,6 +73,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/SanjanaMall/SanjanaMall/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/SanjanaMall/SanjanaMall/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SanjanaMall/SanjanaMall/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/SanjanaMall/SanjanaMall/tree/master/0016-3sum-closest) |
 | [0152-maximum-product-subarray](https://github.com/SanjanaMall/SanjanaMall/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
 |  |
@@ -122,6 +123,7 @@
 | [0005-longest-palindromic-substring](https://github.com/SanjanaMall/SanjanaMall/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/SanjanaMall/SanjanaMall/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SanjanaMall/SanjanaMall/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/SanjanaMall/SanjanaMall/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SanjanaMall/SanjanaMall/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Greedy
 |  |
@@ -168,6 +170,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SanjanaMall/SanjanaMall/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/SanjanaMall/SanjanaMall/tree/master/0016-3sum-closest) |
 ## Stack
 |  |
 | ------- |
