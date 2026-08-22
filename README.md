@@ -166,6 +166,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/SanjanaMall/SanjanaMall/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/SanjanaMall/SanjanaMall/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/SanjanaMall/SanjanaMall/tree/master/0029-divide-two-integers) |
 ## Sorting
 |  |
 | ------- |
@@ -175,4 +176,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SanjanaMall/SanjanaMall/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/SanjanaMall/SanjanaMall/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
