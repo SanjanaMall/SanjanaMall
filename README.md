@@ -78,12 +78,14 @@
 | [0018-4sum](https://github.com/SanjanaMall/SanjanaMall/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/SanjanaMall/SanjanaMall/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SanjanaMall/SanjanaMall/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SanjanaMall/SanjanaMall/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/SanjanaMall/SanjanaMall/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SanjanaMall/SanjanaMall/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SanjanaMall/SanjanaMall/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SanjanaMall/SanjanaMall/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
