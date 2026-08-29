@@ -103,6 +103,7 @@
 | [0010-regular-expression-matching](https://github.com/SanjanaMall/SanjanaMall/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/SanjanaMall/SanjanaMall/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SanjanaMall/SanjanaMall/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/SanjanaMall/SanjanaMall/tree/master/0044-wildcard-matching) |
 | [0152-maximum-product-subarray](https://github.com/SanjanaMall/SanjanaMall/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
@@ -132,6 +133,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SanjanaMall/SanjanaMall/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/SanjanaMall/SanjanaMall/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/SanjanaMall/SanjanaMall/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/SanjanaMall/SanjanaMall/tree/master/0044-wildcard-matching) |
 ## Sliding Window
 |  |
 | ------- |
@@ -143,6 +145,7 @@
 | [0010-regular-expression-matching](https://github.com/SanjanaMall/SanjanaMall/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/SanjanaMall/SanjanaMall/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SanjanaMall/SanjanaMall/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/SanjanaMall/SanjanaMall/tree/master/0044-wildcard-matching) |
 ## Two Pointers
 |  |
 | ------- |
@@ -157,6 +160,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SanjanaMall/SanjanaMall/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/SanjanaMall/SanjanaMall/tree/master/0044-wildcard-matching) |
 ## Linked List
 |  |
 | ------- |
