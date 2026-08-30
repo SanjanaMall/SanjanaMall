@@ -84,6 +84,7 @@
 | [0039-combination-sum](https://github.com/SanjanaMall/SanjanaMall/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/SanjanaMall/SanjanaMall/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0045-jump-game-ii) |
 | [0152-maximum-product-subarray](https://github.com/SanjanaMall/SanjanaMall/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
 |  |
@@ -104,6 +105,7 @@
 | [0022-generate-parentheses](https://github.com/SanjanaMall/SanjanaMall/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SanjanaMall/SanjanaMall/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/SanjanaMall/SanjanaMall/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0045-jump-game-ii) |
 | [0152-maximum-product-subarray](https://github.com/SanjanaMall/SanjanaMall/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
@@ -161,6 +163,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/SanjanaMall/SanjanaMall/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/SanjanaMall/SanjanaMall/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0045-jump-game-ii) |
 ## Linked List
 |  |
 | ------- |
