@@ -91,6 +91,7 @@
 | [0048-rotate-image](https://github.com/SanjanaMall/SanjanaMall/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SanjanaMall/SanjanaMall/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/SanjanaMall/SanjanaMall/tree/master/0051-n-queens) |
+| [0068-text-justification](https://github.com/SanjanaMall/SanjanaMall/tree/master/0068-text-justification) |
 | [0152-maximum-product-subarray](https://github.com/SanjanaMall/SanjanaMall/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
 |  |
@@ -145,6 +146,7 @@
 | [0038-count-and-say](https://github.com/SanjanaMall/SanjanaMall/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/SanjanaMall/SanjanaMall/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/SanjanaMall/SanjanaMall/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/SanjanaMall/SanjanaMall/tree/master/0068-text-justification) |
 ## Sliding Window
 |  |
 | ------- |
@@ -270,4 +272,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SanjanaMall/SanjanaMall/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/SanjanaMall/SanjanaMall/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
