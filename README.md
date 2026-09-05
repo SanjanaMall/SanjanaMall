@@ -127,6 +127,7 @@
 | [0037-sudoku-solver](https://github.com/SanjanaMall/SanjanaMall/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/SanjanaMall/SanjanaMall/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/SanjanaMall/SanjanaMall/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/SanjanaMall/SanjanaMall/tree/master/0076-minimum-window-substring) |
 ## String
 |  |
 | ------- |
@@ -147,11 +148,13 @@
 | [0044-wildcard-matching](https://github.com/SanjanaMall/SanjanaMall/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/SanjanaMall/SanjanaMall/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/SanjanaMall/SanjanaMall/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/SanjanaMall/SanjanaMall/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanjanaMall/SanjanaMall/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SanjanaMall/SanjanaMall/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/SanjanaMall/SanjanaMall/tree/master/0076-minimum-window-substring) |
 ## Recursion
 |  |
 | ------- |
