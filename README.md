@@ -93,6 +93,7 @@
 | [0051-n-queens](https://github.com/SanjanaMall/SanjanaMall/tree/master/0051-n-queens) |
 | [0068-text-justification](https://github.com/SanjanaMall/SanjanaMall/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SanjanaMall/SanjanaMall/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/SanjanaMall/SanjanaMall/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/SanjanaMall/SanjanaMall/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
 |  |
@@ -115,6 +116,7 @@
 | [0042-trapping-rain-water](https://github.com/SanjanaMall/SanjanaMall/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/SanjanaMall/SanjanaMall/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0045-jump-game-ii) |
+| [0085-maximal-rectangle](https://github.com/SanjanaMall/SanjanaMall/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/SanjanaMall/SanjanaMall/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
@@ -249,6 +251,7 @@
 | [0032-longest-valid-parentheses](https://github.com/SanjanaMall/SanjanaMall/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SanjanaMall/SanjanaMall/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SanjanaMall/SanjanaMall/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/SanjanaMall/SanjanaMall/tree/master/0085-maximal-rectangle) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -263,6 +266,7 @@
 | [0036-valid-sudoku](https://github.com/SanjanaMall/SanjanaMall/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SanjanaMall/SanjanaMall/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/SanjanaMall/SanjanaMall/tree/master/0048-rotate-image) |
+| [0085-maximal-rectangle](https://github.com/SanjanaMall/SanjanaMall/tree/master/0085-maximal-rectangle) |
 ## Algorithm X
 |  |
 | ------- |
@@ -278,6 +282,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SanjanaMall/SanjanaMall/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SanjanaMall/SanjanaMall/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/SanjanaMall/SanjanaMall/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
 | ------- |
