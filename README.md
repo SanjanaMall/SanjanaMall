@@ -92,6 +92,7 @@
 | [0049-group-anagrams](https://github.com/SanjanaMall/SanjanaMall/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/SanjanaMall/SanjanaMall/tree/master/0051-n-queens) |
 | [0068-text-justification](https://github.com/SanjanaMall/SanjanaMall/tree/master/0068-text-justification) |
+| [0084-largest-rectangle-in-histogram](https://github.com/SanjanaMall/SanjanaMall/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/SanjanaMall/SanjanaMall/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
 |  |
@@ -247,6 +248,7 @@
 | [0020-valid-parentheses](https://github.com/SanjanaMall/SanjanaMall/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SanjanaMall/SanjanaMall/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SanjanaMall/SanjanaMall/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/SanjanaMall/SanjanaMall/tree/master/0084-largest-rectangle-in-histogram) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -275,8 +277,13 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SanjanaMall/SanjanaMall/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/SanjanaMall/SanjanaMall/tree/master/0084-largest-rectangle-in-histogram) |
 ## Simulation
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/SanjanaMall/SanjanaMall/tree/master/0068-text-justification) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/SanjanaMall/SanjanaMall/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
