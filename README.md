@@ -183,6 +183,7 @@
 | [0031-next-permutation](https://github.com/SanjanaMall/SanjanaMall/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SanjanaMall/SanjanaMall/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SanjanaMall/SanjanaMall/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/SanjanaMall/SanjanaMall/tree/master/0086-partition-list) |
 ## Greedy
 |  |
 | ------- |
@@ -197,6 +198,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/SanjanaMall/SanjanaMall/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SanjanaMall/SanjanaMall/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/SanjanaMall/SanjanaMall/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/SanjanaMall/SanjanaMall/tree/master/0086-partition-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
