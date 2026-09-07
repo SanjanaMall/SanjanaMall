@@ -182,6 +182,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SanjanaMall/SanjanaMall/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/SanjanaMall/SanjanaMall/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SanjanaMall/SanjanaMall/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/SanjanaMall/SanjanaMall/tree/master/0061-rotate-list) |
 ## Greedy
 |  |
 | ------- |
@@ -195,6 +196,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/SanjanaMall/SanjanaMall/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/SanjanaMall/SanjanaMall/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SanjanaMall/SanjanaMall/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/SanjanaMall/SanjanaMall/tree/master/0061-rotate-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
