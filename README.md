@@ -123,6 +123,7 @@
 | [0053-maximum-subarray](https://github.com/SanjanaMall/SanjanaMall/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SanjanaMall/SanjanaMall/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/SanjanaMall/SanjanaMall/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/SanjanaMall/SanjanaMall/tree/master/0087-scramble-string) |
 | [0152-maximum-product-subarray](https://github.com/SanjanaMall/SanjanaMall/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
@@ -158,6 +159,7 @@
 | [0049-group-anagrams](https://github.com/SanjanaMall/SanjanaMall/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/SanjanaMall/SanjanaMall/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/SanjanaMall/SanjanaMall/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/SanjanaMall/SanjanaMall/tree/master/0087-scramble-string) |
 ## Sliding Window
 |  |
 | ------- |
