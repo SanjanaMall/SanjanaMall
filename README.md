@@ -99,6 +99,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/SanjanaMall/SanjanaMall/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SanjanaMall/SanjanaMall/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/SanjanaMall/SanjanaMall/tree/master/0152-maximum-product-subarray) |
+| [0496-next-greater-element-i](https://github.com/SanjanaMall/SanjanaMall/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [0041-first-missing-positive](https://github.com/SanjanaMall/SanjanaMall/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/SanjanaMall/SanjanaMall/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/SanjanaMall/SanjanaMall/tree/master/0076-minimum-window-substring) |
+| [0496-next-greater-element-i](https://github.com/SanjanaMall/SanjanaMall/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -272,6 +274,7 @@
 | [0042-trapping-rain-water](https://github.com/SanjanaMall/SanjanaMall/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SanjanaMall/SanjanaMall/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SanjanaMall/SanjanaMall/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/SanjanaMall/SanjanaMall/tree/master/0496-next-greater-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -304,6 +307,7 @@
 | [0042-trapping-rain-water](https://github.com/SanjanaMall/SanjanaMall/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SanjanaMall/SanjanaMall/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SanjanaMall/SanjanaMall/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/SanjanaMall/SanjanaMall/tree/master/0496-next-greater-element-i) |
 ## Simulation
 |  |
 | ------- |
