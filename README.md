@@ -274,6 +274,7 @@
 | [0042-trapping-rain-water](https://github.com/SanjanaMall/SanjanaMall/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SanjanaMall/SanjanaMall/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SanjanaMall/SanjanaMall/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/SanjanaMall/SanjanaMall/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/SanjanaMall/SanjanaMall/tree/master/0496-next-greater-element-i) |
 ## Bit Manipulation
 |  |
@@ -321,4 +322,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SanjanaMall/SanjanaMall/tree/master/0056-merge-intervals) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/SanjanaMall/SanjanaMall/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
