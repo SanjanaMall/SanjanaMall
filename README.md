@@ -238,6 +238,7 @@
 | [0051-n-queens](https://github.com/SanjanaMall/SanjanaMall/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/SanjanaMall/SanjanaMall/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/SanjanaMall/SanjanaMall/tree/master/0089-gray-code) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -259,6 +260,7 @@
 | [0048-rotate-image](https://github.com/SanjanaMall/SanjanaMall/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SanjanaMall/SanjanaMall/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/SanjanaMall/SanjanaMall/tree/master/0060-permutation-sequence) |
+| [0089-gray-code](https://github.com/SanjanaMall/SanjanaMall/tree/master/0089-gray-code) |
 ## Sorting
 |  |
 | ------- |
@@ -282,6 +284,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SanjanaMall/SanjanaMall/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/SanjanaMall/SanjanaMall/tree/master/0089-gray-code) |
 ## Trie
 |  |
 | ------- |
