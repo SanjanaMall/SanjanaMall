@@ -99,6 +99,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/SanjanaMall/SanjanaMall/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SanjanaMall/SanjanaMall/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/SanjanaMall/SanjanaMall/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/SanjanaMall/SanjanaMall/tree/master/0152-maximum-product-subarray) |
@@ -131,6 +132,7 @@
 | [0087-scramble-string](https://github.com/SanjanaMall/SanjanaMall/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/SanjanaMall/SanjanaMall/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/SanjanaMall/SanjanaMall/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/SanjanaMall/SanjanaMall/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SanjanaMall/SanjanaMall/tree/master/0124-binary-tree-maximum-path-sum) |
