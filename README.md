@@ -96,6 +96,7 @@
 | [0055-jump-game](https://github.com/SanjanaMall/SanjanaMall/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SanjanaMall/SanjanaMall/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/SanjanaMall/SanjanaMall/tree/master/0068-text-justification) |
+| [0078-subsets](https://github.com/SanjanaMall/SanjanaMall/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SanjanaMall/SanjanaMall/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SanjanaMall/SanjanaMall/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0090-subsets-ii) |
@@ -248,6 +249,7 @@
 | [0051-n-queens](https://github.com/SanjanaMall/SanjanaMall/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/SanjanaMall/SanjanaMall/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/SanjanaMall/SanjanaMall/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/SanjanaMall/SanjanaMall/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0090-subsets-ii) |
 ## Bracket Sequences
@@ -295,6 +297,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SanjanaMall/SanjanaMall/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/SanjanaMall/SanjanaMall/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/SanjanaMall/SanjanaMall/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0090-subsets-ii) |
 ## Trie
