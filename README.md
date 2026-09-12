@@ -97,6 +97,7 @@
 | [0056-merge-intervals](https://github.com/SanjanaMall/SanjanaMall/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/SanjanaMall/SanjanaMall/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/SanjanaMall/SanjanaMall/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SanjanaMall/SanjanaMall/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SanjanaMall/SanjanaMall/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SanjanaMall/SanjanaMall/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0090-subsets-ii) |
@@ -173,6 +174,7 @@
 | [0049-group-anagrams](https://github.com/SanjanaMall/SanjanaMall/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/SanjanaMall/SanjanaMall/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/SanjanaMall/SanjanaMall/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/SanjanaMall/SanjanaMall/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/SanjanaMall/SanjanaMall/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/SanjanaMall/SanjanaMall/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/SanjanaMall/SanjanaMall/tree/master/0115-distinct-subsequences) |
@@ -250,6 +252,7 @@
 | [0052-n-queens-ii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/SanjanaMall/SanjanaMall/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/SanjanaMall/SanjanaMall/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SanjanaMall/SanjanaMall/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/SanjanaMall/SanjanaMall/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0090-subsets-ii) |
 ## Bracket Sequences
@@ -311,6 +314,7 @@
 | [0037-sudoku-solver](https://github.com/SanjanaMall/SanjanaMall/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/SanjanaMall/SanjanaMall/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SanjanaMall/SanjanaMall/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/SanjanaMall/SanjanaMall/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/SanjanaMall/SanjanaMall/tree/master/0085-maximal-rectangle) |
 ## Algorithm X
 |  |
@@ -353,6 +357,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SanjanaMall/SanjanaMall/tree/master/0079-word-search) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SanjanaMall/SanjanaMall/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
