@@ -96,6 +96,7 @@
 | [0055-jump-game](https://github.com/SanjanaMall/SanjanaMall/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SanjanaMall/SanjanaMall/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/SanjanaMall/SanjanaMall/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/SanjanaMall/SanjanaMall/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/SanjanaMall/SanjanaMall/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SanjanaMall/SanjanaMall/tree/master/0079-word-search) |
@@ -135,6 +136,7 @@
 | [0055-jump-game](https://github.com/SanjanaMall/SanjanaMall/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/SanjanaMall/SanjanaMall/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/SanjanaMall/SanjanaMall/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/SanjanaMall/SanjanaMall/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/SanjanaMall/SanjanaMall/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/SanjanaMall/SanjanaMall/tree/master/0091-decode-ways) |
@@ -326,6 +328,7 @@
 | [0048-rotate-image](https://github.com/SanjanaMall/SanjanaMall/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SanjanaMall/SanjanaMall/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/SanjanaMall/SanjanaMall/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/SanjanaMall/SanjanaMall/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/SanjanaMall/SanjanaMall/tree/master/0085-maximal-rectangle) |
 ## Algorithm X
