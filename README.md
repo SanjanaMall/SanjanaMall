@@ -100,6 +100,7 @@
 | [0063-unique-paths-ii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SanjanaMall/SanjanaMall/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/SanjanaMall/SanjanaMall/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/SanjanaMall/SanjanaMall/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/SanjanaMall/SanjanaMall/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SanjanaMall/SanjanaMall/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -161,6 +162,7 @@
 | [0037-sudoku-solver](https://github.com/SanjanaMall/SanjanaMall/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/SanjanaMall/SanjanaMall/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/SanjanaMall/SanjanaMall/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/SanjanaMall/SanjanaMall/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/SanjanaMall/SanjanaMall/tree/master/0076-minimum-window-substring) |
 | [0496-next-greater-element-i](https://github.com/SanjanaMall/SanjanaMall/tree/master/0496-next-greater-element-i) |
 ## String
@@ -336,6 +338,7 @@
 | [0059-spiral-matrix-ii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SanjanaMall/SanjanaMall/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/SanjanaMall/SanjanaMall/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/SanjanaMall/SanjanaMall/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/SanjanaMall/SanjanaMall/tree/master/0085-maximal-rectangle) |
 ## Algorithm X
