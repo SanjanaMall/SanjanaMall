@@ -149,6 +149,7 @@
 | [0087-scramble-string](https://github.com/SanjanaMall/SanjanaMall/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/SanjanaMall/SanjanaMall/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/SanjanaMall/SanjanaMall/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/SanjanaMall/SanjanaMall/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/SanjanaMall/SanjanaMall/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -305,6 +306,7 @@
 | [0060-permutation-sequence](https://github.com/SanjanaMall/SanjanaMall/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/SanjanaMall/SanjanaMall/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/SanjanaMall/SanjanaMall/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/SanjanaMall/SanjanaMall/tree/master/0096-unique-binary-search-trees) |
 ## Sorting
 |  |
 | ------- |
@@ -390,6 +392,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/SanjanaMall/SanjanaMall/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SanjanaMall/SanjanaMall/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
@@ -400,6 +403,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/SanjanaMall/SanjanaMall/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SanjanaMall/SanjanaMall/tree/master/0124-binary-tree-maximum-path-sum) |
 ## DP on Trees
 |  |
@@ -421,4 +425,5 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/SanjanaMall/SanjanaMall/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
