@@ -397,6 +397,7 @@
 | [0096-unique-binary-search-trees](https://github.com/SanjanaMall/SanjanaMall/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/SanjanaMall/SanjanaMall/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/SanjanaMall/SanjanaMall/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/SanjanaMall/SanjanaMall/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SanjanaMall/SanjanaMall/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
@@ -404,6 +405,7 @@
 | [0079-word-search](https://github.com/SanjanaMall/SanjanaMall/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/SanjanaMall/SanjanaMall/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/SanjanaMall/SanjanaMall/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/SanjanaMall/SanjanaMall/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SanjanaMall/SanjanaMall/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
@@ -412,6 +414,7 @@
 | [0096-unique-binary-search-trees](https://github.com/SanjanaMall/SanjanaMall/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/SanjanaMall/SanjanaMall/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/SanjanaMall/SanjanaMall/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/SanjanaMall/SanjanaMall/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SanjanaMall/SanjanaMall/tree/master/0124-binary-tree-maximum-path-sum) |
 ## DP on Trees
 |  |
@@ -439,4 +442,5 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SanjanaMall/SanjanaMall/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/SanjanaMall/SanjanaMall/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
