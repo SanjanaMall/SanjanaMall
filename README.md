@@ -255,6 +255,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/SanjanaMall/SanjanaMall/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0092-reverse-linked-list-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SanjanaMall/SanjanaMall/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -329,6 +330,7 @@
 | [0071-simplify-path](https://github.com/SanjanaMall/SanjanaMall/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SanjanaMall/SanjanaMall/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SanjanaMall/SanjanaMall/tree/master/0085-maximal-rectangle) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SanjanaMall/SanjanaMall/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/SanjanaMall/SanjanaMall/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/SanjanaMall/SanjanaMall/tree/master/0496-next-greater-element-i) |
 ## Bit Manipulation
@@ -402,6 +404,7 @@
 | [0101-symmetric-tree](https://github.com/SanjanaMall/SanjanaMall/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SanjanaMall/SanjanaMall/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SanjanaMall/SanjanaMall/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SanjanaMall/SanjanaMall/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SanjanaMall/SanjanaMall/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
@@ -410,6 +413,7 @@
 | [0099-recover-binary-search-tree](https://github.com/SanjanaMall/SanjanaMall/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/SanjanaMall/SanjanaMall/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SanjanaMall/SanjanaMall/tree/master/0101-symmetric-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SanjanaMall/SanjanaMall/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SanjanaMall/SanjanaMall/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
@@ -421,6 +425,7 @@
 | [0101-symmetric-tree](https://github.com/SanjanaMall/SanjanaMall/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SanjanaMall/SanjanaMall/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SanjanaMall/SanjanaMall/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SanjanaMall/SanjanaMall/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SanjanaMall/SanjanaMall/tree/master/0124-binary-tree-maximum-path-sum) |
 ## DP on Trees
 |  |
