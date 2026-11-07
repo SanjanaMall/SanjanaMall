@@ -101,6 +101,7 @@
 | [0059-spiral-matrix-ii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/SanjanaMall/SanjanaMall/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SanjanaMall/SanjanaMall/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/SanjanaMall/SanjanaMall/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/SanjanaMall/SanjanaMall/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/SanjanaMall/SanjanaMall/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SanjanaMall/SanjanaMall/tree/master/0074-search-a-2d-matrix) |
@@ -314,6 +315,7 @@
 | [0050-powx-n](https://github.com/SanjanaMall/SanjanaMall/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/SanjanaMall/SanjanaMall/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/SanjanaMall/SanjanaMall/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/SanjanaMall/SanjanaMall/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/SanjanaMall/SanjanaMall/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/SanjanaMall/SanjanaMall/tree/master/0096-unique-binary-search-trees) |
 ## Sorting
